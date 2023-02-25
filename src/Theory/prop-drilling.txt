@@ -1,0 +1,5 @@
+prop drilling vaneko kunai pani property or data parent ko chai tesko child lai dinu bujinxa 
+
+
+
+yo problem handle garna bibhinna hook haruko use garna sakinxa jastai useContext, useMemo
